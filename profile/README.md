@@ -2,11 +2,24 @@
 
 A Hungarian Minecraft development team that develops most of the Plugins. Our work is available on Polymart, BuiltByBit and SpigotMC. If you have any questions please join our Discord and open a ticket.
 
+## Owners
+
+- [@Coma112](https://www.github.com/coma112)
+- [@B3rcyy](https://www.github.com/b3rcyy)
 
 ## Developers
 
 - [@Coma112](https://www.github.com/coma112)
 - [@B3rcyy](https://www.github.com/b3rcyy)
+- [@Zsömi](https://www.github.com/Zsomi)
+
+## Builder
+
+- DaXor
+
+## Designer
+
+- [@Zsömi](https://www.github.com/Zsomi)
 
 
 ## 🛠 Skills
