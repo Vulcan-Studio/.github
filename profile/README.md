@@ -12,7 +12,7 @@ A Hungarian Minecraft development team that develops most of the Plugins. Our wo
 - [@Coma112](https://www.github.com/coma112)
 - [@B3rcyy](https://www.github.com/b3rcyy)
 - [@Zsömi](https://www.github.com/Zsomi)
-- Dennyel
+- [Dennyel](https://www.github.com/dinnyedeveloper)
 
 ## Builder
 
